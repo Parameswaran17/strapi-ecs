@@ -2,3 +2,10 @@
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform configuration override files
+*.tfvars
+*.tfstate.*
